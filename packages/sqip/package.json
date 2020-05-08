@@ -1,6 +1,6 @@
 {
   "name": "sqip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Benedikt Rötsch <info@benedikt-roetsch.de>",
   "homepage": "https://github.com/axe312ger/sqip#readme",
@@ -56,5 +56,6 @@
   },
   "devDependencies": {
     "debug": "^4.1.1"
-  }
+  },
+  "gitHead": "666c0b215ad06e28b470de886492901b8b80b2a9"
 }
